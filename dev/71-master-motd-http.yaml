@@ -14,4 +14,4 @@ spec:
         mode: 0444
         overwrite: true
         contents:
-          source: http://192.168.0.170:8080/motd.txt
+          source: data:,Welcome%20to%20OpenShift%20Cluster
